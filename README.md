@@ -14,4 +14,4 @@ Imported the following tables from Snowflake into Airflow as an ETL DAG under th
 Captured the **Detailed DAG Page** from the Airflow Web AUI.
 
 **ETL DAG Detailed Page**
-`![https://raw.githubusercontent.com/aakashvardhan/aakash-elt-preset/main/screenshots/etl_dag_log.png]`
+![etl](https://raw.githubusercontent.com/aakashvardhan/aakash-elt-preset/main/screenshots/etl_dag_log.png)
