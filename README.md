@@ -29,8 +29,18 @@ Added an extra condition to check for duplicate rows:
 **ELT DAG Detailed Page**
 ![elt1](https://raw.githubusercontent.com/aakashvardhan/aakash-elt-preset/main/screenshots/elt_graph.png)
 
-![elt2]https://raw.githubusercontent.com/aakashvardhan/aakash-elt-preset/main/screenshots/elt_dag_log.png)
+![elt2](https://raw.githubusercontent.com/aakashvardhan/aakash-elt-preset/main/screenshots/elt_dag_log.png)
 
 ## 3. Set up Preset Account and Import Dataset
 
 Snowflake is connected to the Preset Account in order to import the `session_summary` table
+
+**Preset Dataset Page**
+![preset](https://raw.githubusercontent.com/aakashvardhan/aakash-elt-preset/main/screenshots/preset_dataset.png)
+
+## 4. Create the WAU Chart
+
+Used the chart visualizing tool to get WAU using the `session_summary` dataset.
+
+**WAU Chart**
+![preset2](https://raw.githubusercontent.com/aakashvardhan/aakash-elt-preset/main/screenshots/wau_chart.png)
