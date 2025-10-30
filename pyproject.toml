@@ -1,0 +1,11 @@
+[project]
+name = "aakash-elt-preset"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "apache-airflow>=3.1.0",
+    "snowflake-connector-python>=3.18.0",
+    "snowflake-sqlalchemy>=1.7.7",
+]
